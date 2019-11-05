@@ -11,7 +11,7 @@ _This repository is creating a predictive sports betting model to find high valu
       
   3. Split the betting datasets into Train/Test datasets
   
-  4. Use the Naive Bayes Classifier Model to train a model based on the previous years data
+  4. Use a Naive Bayes Classifier to train a model based on the previous years data
   
   5. Use GridSearchCV to find the best hyperparameters for the model
   
