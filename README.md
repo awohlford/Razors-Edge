@@ -6,11 +6,11 @@ _This repository is creating a predictive sports betting model to find high valu
 ### TO DO
 
   1. Load in advanced statistics from the years 2016-2020 for the following sports leagues
-  ..* NFL
-  ..* NCAAF
-  ..* NBA
-  ..* NCAAM
-  ..* MLB
+  ..*  NFL
+  ..*  NCAAF
+  ..*  NBA
+  ..*  NCAAM
+  ..*  MLB
       
   2. Load in betting lines and results for every game from 2016-2019 for the following sports leagues
       a. NFL
