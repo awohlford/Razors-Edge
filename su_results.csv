@@ -1,8 +1,8 @@
-Date, Sport, Home, Away, Favorite, Spread, Over, Pick
-2019-11-05 12:00:00, Baylor, Central Arkansas, Baylor, 25.5, 149, Baylor -25.5
-2019-11-05 18:00:00, Duquesne, Princeton, Duquesne, 6, 142.5, Duquesne -6
-2019-11-05 19:00:00, Massachusetts, UMass Lowell, Massachusetts, 5.5, 152.5, Massachusetts -5.5
-2019-11-05 19:00:00, St. Josephs, Bradley, Bradley, 5, 142, St. Josephs +5
-2019-11-05 21:00:00, Wisconsin, Saint Louis, Saint Louis, 4, 138, Wisconsin +4
-2019-11-05 20:30:00, NC State, Georgia Tech, NC State, 7, 155, NC State -7
-2019-11-05 20:00:00, Valparaiso, Toledo, Toledo, 2.5, 136, Valparaiso +2.5
+Date, Sport, Home, Away, Favorite, Spread, Over, Pick, Result
+2019-11-05 12:00:00, Baylor, Central Arkansas, Baylor, 25.5, 149, Baylor -25.5, Win
+2019-11-05 18:00:00, Duquesne, Princeton, Duquesne, 6, 142.5, Duquesne -6, None
+2019-11-05 19:00:00, Massachusetts, UMass Lowell, Massachusetts, 5.5, 152.5, Massachusetts -5.5, None
+2019-11-05 19:00:00, St. Josephs, Bradley, Bradley, 5, 142, St. Josephs +5, None
+2019-11-05 21:00:00, Wisconsin, Saint Louis, Saint Louis, 4, 138, Wisconsin +4, None
+2019-11-05 20:30:00, NC State, Georgia Tech, NC State, 7, 155, NC State -7, None
+2019-11-05 20:00:00, Valparaiso, Toledo, Toledo, 2.5, 136, Valparaiso +2.5, None
