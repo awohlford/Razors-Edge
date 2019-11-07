@@ -5,11 +5,13 @@ ID, Date, Sport, Home, Away, Favorite, Spread, Over, Pick, Result
 4, 2019-11-05 20:00:00, NCAAM, Valparaiso, Toledo, Toledo, 2.5, 136, Valparaiso +2.5, Win
 5, 2019-11-05 20:30:00, NCAAM, NC State, Georgia Tech, NC State, 7, 155, NC State -7, Loss
 6, 2019-11-05 21:00:00, NCAAM, Wisconsin, Saint Louis, Saint Louis, 4, 138, Wisconsin +4, Win
-7, 2019-11-06 18:00:00, NCAAM, Boston College, Wake Forest, Boston College, 2, 144.5, Boston College -2, None
-8, 2019-11-06 18:30:00, NCAAM, St. Johns, IUPUI, St. Johns, 11, 155.5, St. Johns -11, None
-9, 2019-11-06 19:00:00, NCAAM, North Carolina, Notre Dame, North Carolina, 10.5, 152, North Carolina -10.5, None
-10, 2019-11-06 19:00:00, NCAAM, James Madison, Charlotte, James Madison, 5.5, 153, James Madison -5.5, None
-11, 2019-11-06 20:00:00, NCAAM, Pittsburgh, Florida State, Florida State, 4, 134.5, Pittsburgh +4, None
-12, 2019-11-06 20:00:00, NCAAM, Oklahoma St, Oral Roberts, Oklahoma St, 16, 142, Oklahoma St -16, None
-13, 2019-11-06 20:00:00, NCAAM, Illinois St, Belmont, Belmont, 6, 150, Illinois St +6, None
-14, 2019-11-06 21:00:00, NCAAM, Syracuse, Virginia, Virginia, 3, 140, Virginia -3, None
+7, 2019-11-06 18:00:00, NCAAM, Boston College, Wake Forest, Boston College, 2, 144.5, Boston College -2, Win
+8, 2019-11-06 18:30:00, NCAAM, St. Johns, IUPUI, St. Johns, 11, 155.5, St. Johns -11, Win
+9, 2019-11-06 19:00:00, NCAAM, North Carolina, Notre Dame, North Carolina, 10.5, 152, North Carolina -10.5, Win
+10, 2019-11-06 19:00:00, NCAAM, James Madison, Charlotte, James Madison, 3.5, 153, James Madison -3.5, Win
+11, 2019-11-06 20:00:00, NCAAM, Pittsburgh, Florida State, Florida State, 4, 134.5, Pittsburgh +4, Win
+12, 2019-11-06 20:00:00, NCAAM, Oklahoma St, Oral Roberts, Oklahoma St, 16, 142, Oklahoma St -16, Loss
+13, 2019-11-06 20:00:00, NCAAM, Illinois St, Belmont, Belmont, 6, 150, Illinois St +6, Win
+14, 2019-11-06 21:00:00, NCAAM, Syracuse, Virginia, Virginia, 3, 140, Virginia -3, Win
+15, 2019-11-07 19:00:00, NCAAM, Marshall, Robert Morris, Marshall, 9.5, 150, Marshall -9.5, None
+16, 2019-11-07 21:00:00, NCAA<, Washington St., Seattle, Washington St., 3, 142,5, Washington St. -3, None
